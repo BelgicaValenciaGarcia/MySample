@@ -19,7 +19,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
         android:text="Elige la Zona"
-        android:textSize="52sp"
+        android:textSize="26sp"
         tools:ignore="HardcodedText" />
 
     /* Crear actividad de rutas de cada zona  */
