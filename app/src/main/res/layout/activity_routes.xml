@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:text="Elige la Ruta"
-        android:textSize="26sp"
+        android:textSize="52sp"
         tools:ignore="HardcodedText"
         android:layout_marginBottom="16dp"/>
 
